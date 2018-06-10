@@ -18,7 +18,7 @@ public class EvenOddNumber {
 			System.out.println(number1+" is an odd number");
 		}
 			
-
+       scan.close();
 	}
 
 }
